@@ -1,6 +1,6 @@
 # Terraform Deployment for Azure Key Vault with Private Endpoint Connection:
 
-This Terraform script allows you to deploy an Azure Key Vault with a private endpoint connection in Microsoft Azure. This is a README.md file to provide information and usage instructions for the Terraform configuration.
+This Terraform script allows you to deploy an Azure Key Vault with a private endpoint connection in Microsoft Azure.
 
 ## Prerequisites:
 
